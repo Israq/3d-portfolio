@@ -12,7 +12,11 @@ const Computers = () => {
       groundColor="black" />
       <pointLight intensity={1}/>
       <primitive
-        object={computer.scene}/>
+        object={computer.scene}
+        scale={0.75}
+        position={[0, -3.25, -1.5]}
+        rotation={[-0.01, -0.02, -0.1]}
+        />
     </mesh>
   )
 }
@@ -34,8 +38,8 @@ const ComputersCanvas = () => {
       </Suspense>
       <Preload all />
     </Canvas>
-  )
-}
+  );
+};
 
 
 export default ComputersCanvas;
