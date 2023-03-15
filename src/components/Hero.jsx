@@ -4,7 +4,7 @@ import { ComputersCanvas } from './canvas';
 
 const Hero = () => {
   return (
-    <section className='relative w-full h-screen mx-auto'>
+    <section className={'relative w-full h-screen mx-auto'}>
       <div className={`${styles.paddingX} absolute
       inset-0 top-[120px] max-w-7xl mx-auto flex
       flex-row items-start gap-5`}>
@@ -33,7 +33,7 @@ const Hero = () => {
             flex justify-center items-start p-2'>
               <motion.dev 
                animate={{
-                y: [0, 24, 0]
+                y: [0, 24, 0],
                }}
                transition={{
                   duration: 1.5,
