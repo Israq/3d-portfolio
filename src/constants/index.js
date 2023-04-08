@@ -23,9 +23,11 @@ import {
     jobit,
     tripguide,
     threejs,
+   
   } from "../assets";
   
   export const navLinks = [
+   
     {
       id: "about",
       title: "About",
@@ -38,8 +40,15 @@ import {
       id: "contact",
       title: "Contact",
     },
+    // {
+    //   id: "Resume",
+    //   title: "Download Resume",
+      
+    // },
+    
   ];
-  
+
+
   const services = [
     {
       title: "Web Developer",
