@@ -4,7 +4,8 @@ import {
     creator,
     web,
     javascript,
-    typescript,
+    //typescript,
+    python,
     html,
     css,
     reactjs,
@@ -14,7 +15,8 @@ import {
     mongodb,
     git,
     figma,
-    docker,
+    //docker,
+    django,
     meta,
     starbucks,
     tesla,
@@ -51,11 +53,11 @@ import {
 
   const services = [
     {
-      title: "Web Developer",
+      title: "Full Stack Developer",
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "React Developer",
       icon: mobile,
     },
     {
@@ -63,7 +65,7 @@ import {
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "Django Developer",
       icon: creator,
     },
   ];
@@ -82,8 +84,8 @@ import {
       icon: javascript,
     },
     {
-      name: "TypeScript",
-      icon: typescript,
+      name: "Python",
+      icon: python,
     },
     {
       name: "React JS",
@@ -118,8 +120,8 @@ import {
       icon: figma,
     },
     {
-      name: "docker",
-      icon: docker,
+      name: "django",
+      icon: django,
     },
   ];
   
