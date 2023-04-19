@@ -127,11 +127,11 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
+      title: "Backend Engineer(Full time)",
+      company_name: "Bizstring.tech",
       icon: starbucks,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "Januay 2021 - October 2022",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -140,11 +140,11 @@ import {
       ],
     },
     {
-      title: "React Native Developer",
-      company_name: "Tesla",
+      title: "Full Stack Developer(Contract)",
+      company_name: "Healthtech Startup",
       icon: tesla,
       iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
+      date: "Ferbruary 2017 - March 2020",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -183,26 +183,26 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-      name: "Sara Lee",
-      designation: "CFO",
-      company: "Acme Co",
+        "The Web as I envisaged it, we have not seen it yet. The future is still so much bigger than the past.",
+      name: "Tim Berners-Lee",
+      designation: "Inventor",
+      company: "World Wide Web ",
       image: "https://randomuser.me/api/portraits/women/4.jpg",
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
-      name: "Chris Brown",
-      designation: "COO",
-      company: "DEF Corp",
+        "Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road.",
+      name: "Stewart Brand",
+      designation: "Writer",
+      company: "USCO and Merry Pranksters",
       image: "https://randomuser.me/api/portraits/men/5.jpg",
     },
     {
       testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "Lisa Wang",
-      designation: "CTO",
-      company: "456 Enterprises",
+        "Technology is best when it brings people together.",
+      name: "Matt Mullenweg",
+      designation: " Social Media Entrepreneur",
+      company: " WordPress",
       image: "https://randomuser.me/api/portraits/women/6.jpg",
     },
   ];
