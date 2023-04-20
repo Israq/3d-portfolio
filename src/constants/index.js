@@ -22,8 +22,11 @@ import {
     tesla,
     shopify,
     carrent,
+    smartfacerecognition,
     jobit,
     tripguide,
+    robocompanion,
+    backgroundgenerator,
     threejs,
    
   } from "../assets";
@@ -211,67 +214,68 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Smart Face Recognition",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "This is an Artificial intelligence-based Web Application. One can register to the app. Then using any image(royalty-free) link from the web. This will locate the human face from the app. Also, there is a rank functionality that updates according to how many times a user has posted and used the app.",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "restful_api",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "node.js",
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
+      image: smartfacerecognition,
       source_code_link: "https://github.com/",
       live_project_link: "https://face-recognition-frontend-cio2.onrender.com/",
     },
     {
-      name: "Job IT",
+      name: "Robo Companion",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "This is a fully responsive React app. Where RoboHash API is used for generating different data. It generates new data for every unique IP address. This app also provides dynamic search functionality. Tachyons has been used as a CSS toolkit for styling the components. This project is live on Render.",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "robohash",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "dom",
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/",
+      image: robocompanion,
+      source_code_link: "https://github.com/Israq/RoboFriends-App",
+      live_project_link: "robo-friends.onrender.com/",
     },
     {
-      name: "Trip Guide",
+      name: "Background Generator(Css Gradient)",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "This app will allow user to chose any types of gradient for the project and will generate Css code to use as a project background",
       tags: [
         {
-          name: "nextjs",
+          name: "Css_toolkit",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "gradient_color",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "Css_code",
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: backgroundgenerator,
       source_code_link: "https://github.com/",
     },
   ];

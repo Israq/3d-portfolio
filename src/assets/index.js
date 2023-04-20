@@ -31,7 +31,10 @@ import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
 import carrent from "./carrent.png";
+import robocompanion from "./robocompanion.png";
+import backgroundgenerator from "./backgroundgenerator.png";
 import jobit from "./jobit.png";
+import smartfacerecognition from "./smartfacerecognition.png";
 import tripguide from "./tripguide.png";
 
 export {
@@ -65,6 +68,9 @@ export {
   tesla,
   carrent,
   jobit,
+  smartfacerecognition,
+  robocompanion,
+  backgroundgenerator,
   tripguide,
  
 };
