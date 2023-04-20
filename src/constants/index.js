@@ -277,6 +277,7 @@ import {
       ],
       image: backgroundgenerator,
       source_code_link: "https://github.com/",
+      live_project_link: "https://background-generator.onrender.com/",
     },
   ];
   
