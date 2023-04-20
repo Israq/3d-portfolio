@@ -255,7 +255,7 @@ import {
       ],
       image: robocompanion,
       source_code_link: "https://github.com/Israq/RoboFriends-App",
-      live_project_link: "robo-friends.onrender.com/",
+      live_project_link: "https://robo-friends.onrender.com/",
     },
     {
       name: "Background Generator(Css Gradient)",
