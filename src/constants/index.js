@@ -133,10 +133,11 @@ import {
       iconBg: "#383E56",
       date: "Januay 2021 - October 2022",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
+        "Developed dynamic web applications using Django(Python) as a Backend Engineer for different business organizations. Orchestrated in multiple projects as project lead which reduced project completion duration.Coordinated with the designing team and clients to make applications workflow more efficient for business growth.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
         "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Created dashboards and dynamic features that helped business organizations evaluate their expansion.",
+        "experienced in building full-stack web applications as a sole developer. Coordinated with the front-endteam for efficient execution.Deployed applications on the server. Run different tests after production. Reviewing and restructuring code to improve user experience.",
       ],
     },
     {
@@ -146,10 +147,11 @@ import {
       iconBg: "#E6DEDD",
       date: "Ferbruary 2017 - March 2020",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+        "Developed Full Stack Web Application(ecommerce). Designed the workflow of the application.Created user interface according to client's requirement.",
+        "Collaborating with product managers to create high-quality products.",
         "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Participating in code reviews and providing constructive feedback on the App workflow to achieve more great user experience.",
+        "Debugging and reconstruct the app according feedback."
       ],
     },
     // {
